@@ -2,6 +2,9 @@
 
 CLI/Terminal autocomplete for the SalesforceDX (sfdx) command.
 
+![demo gif](https://github.com/cloudanswers/sfdx-autocomplete/raw/master/demo.gif)
+
+
 ## Install
 
 Copy and paste the following into your terminal:
